@@ -1,0 +1,16 @@
+
+
+Start of the game:
+
+The game consists of a set of pictures that are located face down.
+
+Game progress:
+
+The player takes turns choosing two pictures and turns them face up.
+If the pictures are the same (have the same meaning), the player gets a point and chooses two other pictures again.
+If the pictures are different, they turn face down, you need to try to find the pair again.
+
+Goal of the game:
+
+The goal of the game is to collect as many pairs of identical pictures as possible.
+The game ends when all pairs of pictures are found.
